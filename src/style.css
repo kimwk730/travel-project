@@ -92,6 +92,15 @@ main p {
 .section-2 a {
 	text-decoration: none;
 }
+.section-3 .ig-embeds {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+	max-width: 1000px;
+	padding: 60px;
+	margin: 0 auto;
+	overflow-block: none;
+}
 footer {
 	background-image: linear-gradient(
 			rgba(171, 219, 217, 0.6),
