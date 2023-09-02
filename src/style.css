@@ -139,7 +139,7 @@ footer a {
 	color: black;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 	header {
 		padding: 60px 0;
 	}
