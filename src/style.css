@@ -170,3 +170,8 @@ footer a {
 		grid-template-columns: 1fr;
 	}
 }
+@media (max-width: 450px) {
+	.section-3 {
+		display: none;
+	}
+}
